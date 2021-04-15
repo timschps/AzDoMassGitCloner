@@ -1,1 +1,1 @@
-# AzDoMassGitCloner
+# MassGitCloner
